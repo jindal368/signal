@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1097483691789",
+    "project_id": "signal-eed2d",
+    "storage_bucket": "signal-eed2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097483691789:android:2e25174959cfa4432cf244",
+        "android_client_info": {
+          "package_name": "com.signal368"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097483691789-80s9hvmcn4m8086j2vmghoc28ah07320.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.signal368",
+            "certificate_hash": "a9aff2eb2ba3ccacebf39331302b057ae0d2b2f1"
+          }
+        },
+        {
+          "client_id": "1097483691789-hbhtptbi6evaa5jh8rfor67j0dicj6m7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.signal368",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1097483691789-nkchsf6s20njj5cemmoi50m6t591bnfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJJDkSfNrIaHn_uDkmzLD05qe3yRzPJlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097483691789-nkchsf6s20njj5cemmoi50m6t591bnfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
